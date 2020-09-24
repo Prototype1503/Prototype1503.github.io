@@ -1,2 +1,2 @@
 # Picture
-!<img src ="cowboy.jpg">
+!<img src ="C:\Users\ICT\Documents\GitHub\Prototype1503.github.io\cowboy.jpg">
