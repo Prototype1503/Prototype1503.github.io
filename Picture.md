@@ -1,2 +1,2 @@
 # Picture
-<img src ="https://www.wallpapertip.com/wmimgs/75-757429_woody-cowboy-action-figure-from-toy-story-toy.jpg" title="turtle">
+!<img src ="C:\Users\ICT\Documents\GitHub\Prototype1503.github.io\cowboy.jpg">
