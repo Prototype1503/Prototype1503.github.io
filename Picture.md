@@ -1,2 +1,2 @@
 # Picture
-![kitten](cowboy.png)
+![kitten](cowboy.jpg)
